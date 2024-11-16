@@ -1,14 +1,12 @@
 Metadata-Version: 2.1
-Name: fetch_ip
-Version: 1.0.0
-Summary: A module to fetch local and public IP addresses
-Home-page: https://github.com/yourusername/fetch_ip
-Author: Your Name
-Author-email: your.email@example.com
+Name: ip_fetcher_and_checker
+Version: 0.1.1
+Summary: A tool for fetching ip.
+Home-page: https://github.com/Yukendiran2002/fetch_ip
+Author: Yukendiran
+Author-email: yukendiranjayachandiran@gmail.com
 Classifier: Programming Language :: Python :: 3
-Classifier: License :: OSI Approved :: MIT License
-Classifier: Operating System :: OS Independent
-Requires-Python: >=3.7
+Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 Requires-Dist: requests
 

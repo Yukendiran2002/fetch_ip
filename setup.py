@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="fetch_ip",
+    name="ip_fetcher_and_checker",
     version="0.1.1",
     packages=find_packages(),
     install_requires=["requests"],  # Add any dependencies if needed

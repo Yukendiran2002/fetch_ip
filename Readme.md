@@ -11,4 +11,4 @@
 Install the module using pip:
 
 ```bash
-pip install fetch_ip
+pip install ip-fetcher-and-checker
